@@ -1,0 +1,1 @@
+# sn-product-inventory-open-api-extension
